@@ -1,0 +1,7 @@
+.env
+/target
+/build
+.idea
+venv/
+allure-results
+
